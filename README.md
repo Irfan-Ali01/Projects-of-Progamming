@@ -1,2 +1,2 @@
-# Projects-of-Progamming
+# Loop Exercises (Projects)-P.F
 My Projects
